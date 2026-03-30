@@ -59,4 +59,3 @@ https://aravind-1294-deep-learning-model-c9masn.streamlit.app
 ## 👨‍💻 Authors
 
 -   Aravind Gangavarapu
--   Prajwal Shet
